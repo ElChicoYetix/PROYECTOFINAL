@@ -1,0 +1,491 @@
+2023-11-16 12:31:02,631:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 12:31:02,631:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 12:31:02,632:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 12:31:02,632:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 12:31:57,589:INFO:Initializing predict_model()
+2023-11-16 12:31:57,590:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x7fc5090e4e20>, estimator=mlflow.pyfunc.loaded_model:
+  artifact_path: model
+  flavor: mlflow.sklearn
+  run_id: afbc707d544e4b84afec2531ce87b764
+, probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x7fc50909ed30>)
+2023-11-16 12:31:57,590:INFO:Checking exceptions
+2023-11-16 12:31:57,590:INFO:Preloading libraries
+2023-11-16 12:34:32,669:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 12:34:32,671:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 12:34:32,671:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 12:34:32,671:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 12:35:01,374:INFO:Initializing predict_model()
+2023-11-16 12:35:01,375:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x7ff2e931ee80>, estimator=mlflow.pyfunc.loaded_model:
+  artifact_path: model
+  flavor: mlflow.sklearn
+  run_id: afbc707d544e4b84afec2531ce87b764
+, probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x7ff2e16b1af0>)
+2023-11-16 12:35:01,376:INFO:Checking exceptions
+2023-11-16 12:35:01,376:INFO:Preloading libraries
+2023-11-16 12:38:06,293:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 12:38:06,295:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 12:38:06,295:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 12:38:06,295:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 12:38:30,394:INFO:Initializing predict_model()
+2023-11-16 12:38:30,403:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x7fe049bcb610>, estimator=mlflow.pyfunc.loaded_model:
+  artifact_path: model
+  flavor: mlflow.sklearn
+  run_id: afbc707d544e4b84afec2531ce87b764
+, probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x7fe049c83940>)
+2023-11-16 12:38:30,404:INFO:Checking exceptions
+2023-11-16 12:38:30,404:INFO:Preloading libraries
+2023-11-16 12:39:20,863:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 12:39:20,865:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 12:39:20,865:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 12:39:20,865:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 12:39:47,705:INFO:Initializing predict_model()
+2023-11-16 12:39:47,705:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x7ff189b5c880>, estimator=mlflow.pyfunc.loaded_model:
+  artifact_path: model
+  flavor: mlflow.sklearn
+  run_id: afbc707d544e4b84afec2531ce87b764
+, probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x7ff181809e50>)
+2023-11-16 12:39:47,705:INFO:Checking exceptions
+2023-11-16 12:39:47,706:INFO:Preloading libraries
+2023-11-16 12:40:37,027:INFO:PyCaret ClassificationExperiment
+2023-11-16 12:40:37,028:INFO:Logging name: clf-default-name
+2023-11-16 12:40:37,029:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2023-11-16 12:40:37,029:INFO:version 3.2.0
+2023-11-16 12:40:37,029:INFO:Initializing setup()
+2023-11-16 12:40:37,030:INFO:self.USI: 1ab6
+2023-11-16 12:40:37,030:INFO:self._variable_keys: {'html_param', 'fold_groups_param', 'seed', 'n_jobs_param', '_available_plots', 'gpu_n_jobs_param', 'log_plots_param', 'X', 'y_test', 'pipeline', 'y_train', 'X_train', 'gpu_param', 'fold_shuffle_param', 'target_param', 'X_test', 'idx', 'is_multiclass', 'y', 'memory', '_ml_usecase', 'logging_param', 'exp_name_log', 'data', 'USI', 'exp_id', 'fix_imbalance', 'fold_generator'}
+2023-11-16 12:40:37,030:INFO:Checking environment
+2023-11-16 12:40:37,030:INFO:python_version: 3.9.6
+2023-11-16 12:40:37,030:INFO:python_build: ('v3.9.6:db3ff76da1', 'Jun 28 2021 11:49:53')
+2023-11-16 12:40:37,030:INFO:machine: x86_64
+2023-11-16 12:40:37,030:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2023-11-16 12:40:37,031:INFO:Memory: svmem(total=8589934592, available=2648252416, percent=69.2, used=4214591488, free=27942912, active=2583113728, inactive=2556841984, wired=1631477760)
+2023-11-16 12:40:37,031:INFO:Physical Core: 2
+2023-11-16 12:40:37,031:INFO:Logical Core: 4
+2023-11-16 12:40:37,031:INFO:Checking libraries
+2023-11-16 12:40:37,031:INFO:System:
+2023-11-16 12:40:37,031:INFO:    python: 3.9.6 (v3.9.6:db3ff76da1, Jun 28 2021, 11:49:53)  [Clang 6.0 (clang-600.0.57)]
+2023-11-16 12:40:37,031:INFO:executable: /Users/emmet/Documents/ITESO/PROYECTO_DE_CIENCIA_DE_DATOS/final-exam-pcd2023-autumn/venv/bin/python
+2023-11-16 12:40:37,031:INFO:   machine: macOS-10.16-x86_64-i386-64bit
+2023-11-16 12:40:37,031:INFO:PyCaret required dependencies:
+2023-11-16 12:40:37,469:INFO:                 pip: 23.3.1
+2023-11-16 12:40:37,470:INFO:          setuptools: 67.3.2
+2023-11-16 12:40:37,470:INFO:             pycaret: 3.2.0
+2023-11-16 12:40:37,470:INFO:             IPython: 8.17.2
+2023-11-16 12:40:37,471:INFO:          ipywidgets: 8.1.1
+2023-11-16 12:40:37,471:INFO:                tqdm: 4.66.1
+2023-11-16 12:40:37,471:INFO:               numpy: 1.25.2
+2023-11-16 12:40:37,471:INFO:              pandas: 1.5.3
+2023-11-16 12:40:37,471:INFO:              jinja2: 3.1.2
+2023-11-16 12:40:37,471:INFO:               scipy: 1.10.1
+2023-11-16 12:40:37,471:INFO:              joblib: 1.3.2
+2023-11-16 12:40:37,472:INFO:             sklearn: 1.2.2
+2023-11-16 12:40:37,472:INFO:                pyod: 1.1.1
+2023-11-16 12:40:37,472:INFO:            imblearn: 0.11.0
+2023-11-16 12:40:37,472:INFO:   category_encoders: 2.6.3
+2023-11-16 12:40:37,472:INFO:            lightgbm: 4.1.0
+2023-11-16 12:40:37,472:INFO:               numba: 0.58.1
+2023-11-16 12:40:37,472:INFO:            requests: 2.31.0
+2023-11-16 12:40:37,472:INFO:          matplotlib: 3.6.0
+2023-11-16 12:40:37,474:INFO:          scikitplot: 0.3.7
+2023-11-16 12:40:37,474:INFO:         yellowbrick: 1.5
+2023-11-16 12:40:37,475:INFO:              plotly: 5.18.0
+2023-11-16 12:40:37,475:INFO:    plotly-resampler: Not installed
+2023-11-16 12:40:37,475:INFO:             kaleido: 0.2.1
+2023-11-16 12:40:37,475:INFO:           schemdraw: 0.15
+2023-11-16 12:40:37,476:INFO:         statsmodels: 0.14.0
+2023-11-16 12:40:37,476:INFO:              sktime: 0.21.1
+2023-11-16 12:40:37,476:INFO:               tbats: 1.1.3
+2023-11-16 12:40:37,476:INFO:            pmdarima: 2.0.4
+2023-11-16 12:40:37,476:INFO:              psutil: 5.9.6
+2023-11-16 12:40:37,476:INFO:          markupsafe: 2.1.3
+2023-11-16 12:40:37,476:INFO:             pickle5: Not installed
+2023-11-16 12:40:37,476:INFO:         cloudpickle: 2.2.1
+2023-11-16 12:40:37,477:INFO:         deprecation: 2.1.0
+2023-11-16 12:40:37,477:INFO:              xxhash: 3.4.1
+2023-11-16 12:40:37,477:INFO:           wurlitzer: 3.0.3
+2023-11-16 12:40:37,477:INFO:PyCaret optional dependencies:
+2023-11-16 12:40:37,626:INFO:                shap: Not installed
+2023-11-16 12:40:37,626:INFO:           interpret: Not installed
+2023-11-16 12:40:37,626:INFO:                umap: Not installed
+2023-11-16 12:40:37,626:INFO:     ydata_profiling: Not installed
+2023-11-16 12:40:37,626:INFO:  explainerdashboard: Not installed
+2023-11-16 12:40:37,626:INFO:             autoviz: Not installed
+2023-11-16 12:40:37,626:INFO:           fairlearn: Not installed
+2023-11-16 12:40:37,629:INFO:          deepchecks: Not installed
+2023-11-16 12:40:37,630:INFO:             xgboost: Not installed
+2023-11-16 12:40:37,630:INFO:            catboost: Not installed
+2023-11-16 12:40:37,631:INFO:              kmodes: Not installed
+2023-11-16 12:40:37,631:INFO:             mlxtend: Not installed
+2023-11-16 12:40:37,631:INFO:       statsforecast: Not installed
+2023-11-16 12:40:37,631:INFO:        tune_sklearn: Not installed
+2023-11-16 12:40:37,631:INFO:                 ray: Not installed
+2023-11-16 12:40:37,631:INFO:            hyperopt: Not installed
+2023-11-16 12:40:37,631:INFO:              optuna: Not installed
+2023-11-16 12:40:37,632:INFO:               skopt: Not installed
+2023-11-16 12:40:37,632:INFO:              mlflow: 2.8.0
+2023-11-16 12:40:37,632:INFO:              gradio: Not installed
+2023-11-16 12:40:37,632:INFO:             fastapi: 0.104.1
+2023-11-16 12:40:37,632:INFO:             uvicorn: 0.24.0.post1
+2023-11-16 12:40:37,632:INFO:              m2cgen: Not installed
+2023-11-16 12:40:37,632:INFO:           evidently: Not installed
+2023-11-16 12:40:37,633:INFO:               fugue: Not installed
+2023-11-16 12:40:37,633:INFO:           streamlit: Not installed
+2023-11-16 12:40:37,633:INFO:             prophet: Not installed
+2023-11-16 12:40:37,634:INFO:None
+2023-11-16 12:40:37,634:INFO:Set up data.
+2023-11-16 12:45:01,626:INFO:Initializing predict_model()
+2023-11-16 12:45:01,628:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x7ff1817f3ca0>, estimator=mlflow.pyfunc.loaded_model:
+  artifact_path: model
+  flavor: mlflow.sklearn
+  run_id: afbc707d544e4b84afec2531ce87b764
+, probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x7ff16e13b4c0>)
+2023-11-16 12:45:01,628:INFO:Checking exceptions
+2023-11-16 12:45:01,628:INFO:Preloading libraries
+2023-11-16 12:55:41,575:INFO:PyCaret ClassificationExperiment
+2023-11-16 12:55:41,577:INFO:Logging name: examen_api
+2023-11-16 12:55:41,578:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2023-11-16 12:55:41,578:INFO:version 3.2.0
+2023-11-16 12:55:41,578:INFO:Initializing setup()
+2023-11-16 12:55:41,578:INFO:self.USI: 087b
+2023-11-16 12:55:41,578:INFO:self._variable_keys: {'html_param', 'fold_groups_param', 'seed', 'n_jobs_param', '_available_plots', 'gpu_n_jobs_param', 'log_plots_param', 'X', 'y_test', 'pipeline', 'y_train', 'X_train', 'gpu_param', 'fold_shuffle_param', 'target_param', 'X_test', 'idx', 'is_multiclass', 'y', 'memory', '_ml_usecase', 'logging_param', 'exp_name_log', 'data', 'USI', 'exp_id', 'fix_imbalance', 'fold_generator'}
+2023-11-16 12:55:41,579:INFO:Checking environment
+2023-11-16 12:55:41,579:INFO:python_version: 3.9.6
+2023-11-16 12:55:41,579:INFO:python_build: ('v3.9.6:db3ff76da1', 'Jun 28 2021 11:49:53')
+2023-11-16 12:55:41,579:INFO:machine: x86_64
+2023-11-16 12:55:41,579:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2023-11-16 12:55:41,580:INFO:Memory: svmem(total=8589934592, available=2516426752, percent=70.7, used=4122124288, free=52838400, active=2465243136, inactive=2427154432, wired=1656881152)
+2023-11-16 12:55:41,581:INFO:Physical Core: 2
+2023-11-16 12:55:41,581:INFO:Logical Core: 4
+2023-11-16 12:55:41,581:INFO:Checking libraries
+2023-11-16 12:55:41,581:INFO:System:
+2023-11-16 12:55:41,581:INFO:    python: 3.9.6 (v3.9.6:db3ff76da1, Jun 28 2021, 11:49:53)  [Clang 6.0 (clang-600.0.57)]
+2023-11-16 12:55:41,582:INFO:executable: /Users/emmet/Documents/ITESO/PROYECTO_DE_CIENCIA_DE_DATOS/final-exam-pcd2023-autumn/venv/bin/python
+2023-11-16 12:55:41,582:INFO:   machine: macOS-10.16-x86_64-i386-64bit
+2023-11-16 12:55:41,582:INFO:PyCaret required dependencies:
+2023-11-16 12:55:41,583:INFO:                 pip: 23.3.1
+2023-11-16 12:55:41,584:INFO:          setuptools: 67.3.2
+2023-11-16 12:55:41,584:INFO:             pycaret: 3.2.0
+2023-11-16 12:55:41,585:INFO:             IPython: 8.17.2
+2023-11-16 12:55:41,585:INFO:          ipywidgets: 8.1.1
+2023-11-16 12:55:41,586:INFO:                tqdm: 4.66.1
+2023-11-16 12:55:41,586:INFO:               numpy: 1.25.2
+2023-11-16 12:55:41,586:INFO:              pandas: 1.5.3
+2023-11-16 12:55:41,586:INFO:              jinja2: 3.1.2
+2023-11-16 12:55:41,586:INFO:               scipy: 1.10.1
+2023-11-16 12:55:41,586:INFO:              joblib: 1.3.2
+2023-11-16 12:55:41,587:INFO:             sklearn: 1.2.2
+2023-11-16 12:55:41,587:INFO:                pyod: 1.1.1
+2023-11-16 12:55:41,587:INFO:            imblearn: 0.11.0
+2023-11-16 12:55:41,587:INFO:   category_encoders: 2.6.3
+2023-11-16 12:55:41,587:INFO:            lightgbm: 4.1.0
+2023-11-16 12:55:41,587:INFO:               numba: 0.58.1
+2023-11-16 12:55:41,587:INFO:            requests: 2.31.0
+2023-11-16 12:55:41,588:INFO:          matplotlib: 3.6.0
+2023-11-16 12:55:41,588:INFO:          scikitplot: 0.3.7
+2023-11-16 12:55:41,588:INFO:         yellowbrick: 1.5
+2023-11-16 12:55:41,588:INFO:              plotly: 5.18.0
+2023-11-16 12:55:41,588:INFO:    plotly-resampler: Not installed
+2023-11-16 12:55:41,588:INFO:             kaleido: 0.2.1
+2023-11-16 12:55:41,591:INFO:           schemdraw: 0.15
+2023-11-16 12:55:41,592:INFO:         statsmodels: 0.14.0
+2023-11-16 12:55:41,592:INFO:              sktime: 0.21.1
+2023-11-16 12:55:41,592:INFO:               tbats: 1.1.3
+2023-11-16 12:55:41,592:INFO:            pmdarima: 2.0.4
+2023-11-16 12:55:41,592:INFO:              psutil: 5.9.6
+2023-11-16 12:55:41,592:INFO:          markupsafe: 2.1.3
+2023-11-16 12:55:41,593:INFO:             pickle5: Not installed
+2023-11-16 12:55:41,593:INFO:         cloudpickle: 2.2.1
+2023-11-16 12:55:41,593:INFO:         deprecation: 2.1.0
+2023-11-16 12:55:41,593:INFO:              xxhash: 3.4.1
+2023-11-16 12:55:41,593:INFO:           wurlitzer: 3.0.3
+2023-11-16 12:55:41,593:INFO:PyCaret optional dependencies:
+2023-11-16 12:55:41,594:INFO:                shap: Not installed
+2023-11-16 12:55:41,594:INFO:           interpret: Not installed
+2023-11-16 12:55:41,594:INFO:                umap: Not installed
+2023-11-16 12:55:41,594:INFO:     ydata_profiling: Not installed
+2023-11-16 12:55:41,594:INFO:  explainerdashboard: Not installed
+2023-11-16 12:55:41,595:INFO:             autoviz: Not installed
+2023-11-16 12:55:41,595:INFO:           fairlearn: Not installed
+2023-11-16 12:55:41,595:INFO:          deepchecks: Not installed
+2023-11-16 12:55:41,595:INFO:             xgboost: Not installed
+2023-11-16 12:55:41,595:INFO:            catboost: Not installed
+2023-11-16 12:55:41,595:INFO:              kmodes: Not installed
+2023-11-16 12:55:41,595:INFO:             mlxtend: Not installed
+2023-11-16 12:55:41,595:INFO:       statsforecast: Not installed
+2023-11-16 12:55:41,596:INFO:        tune_sklearn: Not installed
+2023-11-16 12:55:41,596:INFO:                 ray: Not installed
+2023-11-16 12:55:41,596:INFO:            hyperopt: Not installed
+2023-11-16 12:55:41,597:INFO:              optuna: Not installed
+2023-11-16 12:55:41,597:INFO:               skopt: Not installed
+2023-11-16 12:55:41,597:INFO:              mlflow: 2.8.0
+2023-11-16 12:55:41,597:INFO:              gradio: Not installed
+2023-11-16 12:55:41,597:INFO:             fastapi: 0.104.1
+2023-11-16 12:55:41,597:INFO:             uvicorn: 0.24.0.post1
+2023-11-16 12:55:41,597:INFO:              m2cgen: Not installed
+2023-11-16 12:55:41,597:INFO:           evidently: Not installed
+2023-11-16 12:55:41,598:INFO:               fugue: Not installed
+2023-11-16 12:55:41,600:INFO:           streamlit: Not installed
+2023-11-16 12:55:41,600:INFO:             prophet: Not installed
+2023-11-16 12:55:41,601:INFO:None
+2023-11-16 12:55:41,602:INFO:Set up data.
+2023-11-16 12:57:40,360:INFO:PyCaret ClassificationExperiment
+2023-11-16 12:57:40,361:INFO:Logging name: clf-default-name
+2023-11-16 12:57:40,361:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2023-11-16 12:57:40,361:INFO:version 3.2.0
+2023-11-16 12:57:40,362:INFO:Initializing setup()
+2023-11-16 12:57:40,362:INFO:self.USI: 3d55
+2023-11-16 12:57:40,362:INFO:self._variable_keys: {'html_param', 'fold_groups_param', 'seed', 'n_jobs_param', '_available_plots', 'gpu_n_jobs_param', 'log_plots_param', 'X', 'y_test', 'pipeline', 'y_train', 'X_train', 'gpu_param', 'fold_shuffle_param', 'target_param', 'X_test', 'idx', 'is_multiclass', 'y', 'memory', '_ml_usecase', 'logging_param', 'exp_name_log', 'data', 'USI', 'exp_id', 'fix_imbalance', 'fold_generator'}
+2023-11-16 12:57:40,362:INFO:Checking environment
+2023-11-16 12:57:40,362:INFO:python_version: 3.9.6
+2023-11-16 12:57:40,362:INFO:python_build: ('v3.9.6:db3ff76da1', 'Jun 28 2021 11:49:53')
+2023-11-16 12:57:40,362:INFO:machine: x86_64
+2023-11-16 12:57:40,362:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2023-11-16 12:57:40,362:INFO:Memory: svmem(total=8589934592, available=2612547584, percent=69.6, used=4191399936, free=21696512, active=2589777920, inactive=2582892544, wired=1601622016)
+2023-11-16 12:57:40,362:INFO:Physical Core: 2
+2023-11-16 12:57:40,363:INFO:Logical Core: 4
+2023-11-16 12:57:40,363:INFO:Checking libraries
+2023-11-16 12:57:40,363:INFO:System:
+2023-11-16 12:57:40,363:INFO:    python: 3.9.6 (v3.9.6:db3ff76da1, Jun 28 2021, 11:49:53)  [Clang 6.0 (clang-600.0.57)]
+2023-11-16 12:57:40,363:INFO:executable: /Users/emmet/Documents/ITESO/PROYECTO_DE_CIENCIA_DE_DATOS/final-exam-pcd2023-autumn/venv/bin/python
+2023-11-16 12:57:40,363:INFO:   machine: macOS-10.16-x86_64-i386-64bit
+2023-11-16 12:57:40,363:INFO:PyCaret required dependencies:
+2023-11-16 12:57:40,364:INFO:                 pip: 23.3.1
+2023-11-16 12:57:40,364:INFO:          setuptools: 67.3.2
+2023-11-16 12:57:40,364:INFO:             pycaret: 3.2.0
+2023-11-16 12:57:40,365:INFO:             IPython: 8.17.2
+2023-11-16 12:57:40,365:INFO:          ipywidgets: 8.1.1
+2023-11-16 12:57:40,365:INFO:                tqdm: 4.66.1
+2023-11-16 12:57:40,365:INFO:               numpy: 1.25.2
+2023-11-16 12:57:40,365:INFO:              pandas: 1.5.3
+2023-11-16 12:57:40,365:INFO:              jinja2: 3.1.2
+2023-11-16 12:57:40,365:INFO:               scipy: 1.10.1
+2023-11-16 12:57:40,366:INFO:              joblib: 1.3.2
+2023-11-16 12:57:40,366:INFO:             sklearn: 1.2.2
+2023-11-16 12:57:40,366:INFO:                pyod: 1.1.1
+2023-11-16 12:57:40,366:INFO:            imblearn: 0.11.0
+2023-11-16 12:57:40,366:INFO:   category_encoders: 2.6.3
+2023-11-16 12:57:40,366:INFO:            lightgbm: 4.1.0
+2023-11-16 12:57:40,367:INFO:               numba: 0.58.1
+2023-11-16 12:57:40,367:INFO:            requests: 2.31.0
+2023-11-16 12:57:40,367:INFO:          matplotlib: 3.6.0
+2023-11-16 12:57:40,367:INFO:          scikitplot: 0.3.7
+2023-11-16 12:57:40,367:INFO:         yellowbrick: 1.5
+2023-11-16 12:57:40,368:INFO:              plotly: 5.18.0
+2023-11-16 12:57:40,368:INFO:    plotly-resampler: Not installed
+2023-11-16 12:57:40,368:INFO:             kaleido: 0.2.1
+2023-11-16 12:57:40,368:INFO:           schemdraw: 0.15
+2023-11-16 12:57:40,368:INFO:         statsmodels: 0.14.0
+2023-11-16 12:57:40,369:INFO:              sktime: 0.21.1
+2023-11-16 12:57:40,369:INFO:               tbats: 1.1.3
+2023-11-16 12:57:40,369:INFO:            pmdarima: 2.0.4
+2023-11-16 12:57:40,370:INFO:              psutil: 5.9.6
+2023-11-16 12:57:40,370:INFO:          markupsafe: 2.1.3
+2023-11-16 12:57:40,370:INFO:             pickle5: Not installed
+2023-11-16 12:57:40,370:INFO:         cloudpickle: 2.2.1
+2023-11-16 12:57:40,370:INFO:         deprecation: 2.1.0
+2023-11-16 12:57:40,370:INFO:              xxhash: 3.4.1
+2023-11-16 12:57:40,370:INFO:           wurlitzer: 3.0.3
+2023-11-16 12:57:40,370:INFO:PyCaret optional dependencies:
+2023-11-16 12:57:40,371:INFO:                shap: Not installed
+2023-11-16 12:57:40,371:INFO:           interpret: Not installed
+2023-11-16 12:57:40,371:INFO:                umap: Not installed
+2023-11-16 12:57:40,371:INFO:     ydata_profiling: Not installed
+2023-11-16 12:57:40,371:INFO:  explainerdashboard: Not installed
+2023-11-16 12:57:40,371:INFO:             autoviz: Not installed
+2023-11-16 12:57:40,371:INFO:           fairlearn: Not installed
+2023-11-16 12:57:40,373:INFO:          deepchecks: Not installed
+2023-11-16 12:57:40,373:INFO:             xgboost: Not installed
+2023-11-16 12:57:40,373:INFO:            catboost: Not installed
+2023-11-16 12:57:40,373:INFO:              kmodes: Not installed
+2023-11-16 12:57:40,373:INFO:             mlxtend: Not installed
+2023-11-16 12:57:40,373:INFO:       statsforecast: Not installed
+2023-11-16 12:57:40,373:INFO:        tune_sklearn: Not installed
+2023-11-16 12:57:40,373:INFO:                 ray: Not installed
+2023-11-16 12:57:40,373:INFO:            hyperopt: Not installed
+2023-11-16 12:57:40,373:INFO:              optuna: Not installed
+2023-11-16 12:57:40,374:INFO:               skopt: Not installed
+2023-11-16 12:57:40,374:INFO:              mlflow: 2.8.0
+2023-11-16 12:57:40,374:INFO:              gradio: Not installed
+2023-11-16 12:57:40,374:INFO:             fastapi: 0.104.1
+2023-11-16 12:57:40,374:INFO:             uvicorn: 0.24.0.post1
+2023-11-16 12:57:40,375:INFO:              m2cgen: Not installed
+2023-11-16 12:57:40,375:INFO:           evidently: Not installed
+2023-11-16 12:57:40,375:INFO:               fugue: Not installed
+2023-11-16 12:57:40,375:INFO:           streamlit: Not installed
+2023-11-16 12:57:40,375:INFO:             prophet: Not installed
+2023-11-16 12:57:40,375:INFO:None
+2023-11-16 12:57:40,375:INFO:Set up data.
+2023-11-16 12:58:31,966:INFO:Initializing predict_model()
+2023-11-16 12:58:31,969:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x7ff16f40beb0>, estimator=mlflow.pyfunc.loaded_model:
+  artifact_path: model
+  flavor: mlflow.sklearn
+  run_id: afbc707d544e4b84afec2531ce87b764
+, probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x7ff16e43f430>)
+2023-11-16 12:58:31,969:INFO:Checking exceptions
+2023-11-16 12:58:31,969:INFO:Preloading libraries
+2023-11-16 13:02:28,955:INFO:Initializing predict_model()
+2023-11-16 13:02:28,957:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x7ff16f40beb0>, estimator=mlflow.pyfunc.loaded_model:
+  artifact_path: model
+  flavor: mlflow.sklearn
+  run_id: afbc707d544e4b84afec2531ce87b764
+, probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x7ff16f52c4c0>)
+2023-11-16 13:02:28,957:INFO:Checking exceptions
+2023-11-16 13:02:28,957:INFO:Preloading libraries
+2023-11-16 13:02:46,763:INFO:Initializing predict_model()
+2023-11-16 13:02:46,764:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x7ff16f40beb0>, estimator=RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight=None,
+                       criterion='gini', max_depth=None, max_features='sqrt',
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.0, min_samples_leaf=1,
+                       min_samples_split=2, min_weight_fraction_leaf=0.0,
+                       n_estimators=100, n_jobs=-1, oob_score=False,
+                       random_state=123, verbose=0, warm_start=False), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x7ff16e683670>)
+2023-11-16 13:02:46,764:INFO:Checking exceptions
+2023-11-16 13:02:46,764:INFO:Preloading libraries
+2023-11-16 13:03:13,046:WARNING:/Users/emmet/Documents/ITESO/PROYECTO_DE_CIENCIA_DE_DATOS/final-exam-pcd2023-autumn/venv/lib/python3.9/site-packages/sklearn/base.py:439: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2023-11-16 16:17:14,087:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 16:17:14,089:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 16:17:14,089:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 16:17:14,089:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 16:18:16,436:INFO:Initializing predict_model()
+2023-11-16 16:18:16,438:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x7ff3f128e880>, estimator=mlflow.pyfunc.loaded_model:
+  artifact_path: model
+  flavor: mlflow.sklearn
+  run_id: afbc707d544e4b84afec2531ce87b764
+, probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x7ff3f13c9ca0>)
+2023-11-16 16:18:16,441:INFO:Checking exceptions
+2023-11-16 16:18:16,441:INFO:Preloading libraries
+2023-11-16 19:11:21,531:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 19:11:21,532:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 19:11:21,532:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 19:11:21,532:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 20:54:18,009:INFO:Initializing predict_model()
+2023-11-16 20:54:18,011:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x7fabc3bbb670>, estimator=mlflow.pyfunc.loaded_model:
+  artifact_path: model
+  flavor: mlflow.sklearn
+  run_id: e8213a353c8b473886aaffdbe2acb3e7
+, probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x7faba5c22ca0>)
+2023-11-16 20:54:18,012:INFO:Checking exceptions
+2023-11-16 20:54:18,012:INFO:Preloading libraries
+2023-11-16 23:21:46,766:WARNING:/var/folders/km/hz01m9693m51_mgk8w146vvh0000gn/T/ipykernel_3085/1188421854.py:15: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append({key: value}, ignore_index=True)
+
+2023-11-16 23:21:46,801:WARNING:/var/folders/km/hz01m9693m51_mgk8w146vvh0000gn/T/ipykernel_3085/1188421854.py:15: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append({key: value}, ignore_index=True)
+
+2023-11-16 23:21:46,804:WARNING:/var/folders/km/hz01m9693m51_mgk8w146vvh0000gn/T/ipykernel_3085/1188421854.py:15: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append({key: value}, ignore_index=True)
+
+2023-11-16 23:21:46,810:WARNING:/var/folders/km/hz01m9693m51_mgk8w146vvh0000gn/T/ipykernel_3085/1188421854.py:15: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append({key: value}, ignore_index=True)
+
+2023-11-16 23:21:50,994:WARNING:/var/folders/km/hz01m9693m51_mgk8w146vvh0000gn/T/ipykernel_3085/420794024.py:15: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append({key: value}, ignore_index=True)
+
+2023-11-16 23:21:50,999:WARNING:/var/folders/km/hz01m9693m51_mgk8w146vvh0000gn/T/ipykernel_3085/420794024.py:15: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append({key: value}, ignore_index=True)
+
+2023-11-16 23:21:51,004:WARNING:/var/folders/km/hz01m9693m51_mgk8w146vvh0000gn/T/ipykernel_3085/420794024.py:15: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append({key: value}, ignore_index=True)
+
+2023-11-16 23:21:51,032:WARNING:/var/folders/km/hz01m9693m51_mgk8w146vvh0000gn/T/ipykernel_3085/420794024.py:15: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append({key: value}, ignore_index=True)
+
+2023-11-16 23:48:24,142:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 23:48:24,144:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 23:48:24,145:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 23:48:24,146:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 23:51:20,111:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 23:51:20,112:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 23:51:20,113:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-16 23:51:20,113:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-24 23:38:20,840:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-24 23:38:20,849:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-24 23:38:20,849:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-24 23:38:20,849:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-24 23:38:30,814:WARNING:/Users/emmet/Documents/ITESO/PROYECTO_DE_CIENCIA_DE_DATOS/PROYECTOFINAL/venv/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.1 when using version 1.1.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-11-24 23:38:30,840:WARNING:/Users/emmet/Documents/ITESO/PROYECTO_DE_CIENCIA_DE_DATOS/PROYECTOFINAL/venv/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator RandomForestClassifier from version 1.1.1 when using version 1.1.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-11-24 23:38:31,229:WARNING:/Users/emmet/Documents/ITESO/PROYECTO_DE_CIENCIA_DE_DATOS/PROYECTOFINAL/venv/lib/python3.9/site-packages/pycaret/internal/pipeline.py:139: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.3.2', 'pycaret': '3.1.0', 'IPython': '8.18.0', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.1.2', 'pyod': '1.1.2', 'imblearn': '0.11.0', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.4.3', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.18.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.6', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.9.6', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '21.2.4', 'setuptools': '58.0.4', 'pycaret': '3.1.0', 'IPython': '7.31.1', 'ipywidgets': '7.6.5', 'tqdm': '4.62.3', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.1.1', 'pyod': '1.1.1', 'imblearn': '0.9.1', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.4.3', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.11.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.6', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '2.1.1'}, 'python': {'version': '3.9.10', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-11-24 23:41:55,569:WARNING:/Users/emmet/Documents/ITESO/PROYECTO_DE_CIENCIA_DE_DATOS/PROYECTOFINAL/venv/lib/python3.9/site-packages/sklearn/base.py:450: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2023-11-24 23:47:07,964:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-24 23:47:07,966:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-24 23:47:07,966:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-24 23:47:07,966:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-24 23:47:11,955:WARNING:/Users/emmet/Documents/ITESO/PROYECTO_DE_CIENCIA_DE_DATOS/PROYECTOFINAL/venv/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.1 when using version 1.1.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-11-24 23:47:11,986:WARNING:/Users/emmet/Documents/ITESO/PROYECTO_DE_CIENCIA_DE_DATOS/PROYECTOFINAL/venv/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator RandomForestClassifier from version 1.1.1 when using version 1.1.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-11-24 23:47:12,138:WARNING:/Users/emmet/Documents/ITESO/PROYECTO_DE_CIENCIA_DE_DATOS/PROYECTOFINAL/venv/lib/python3.9/site-packages/pycaret/internal/pipeline.py:139: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.0.1', 'setuptools': '67.3.2', 'pycaret': '3.1.0', 'IPython': '8.18.0', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.1.2', 'pyod': '1.1.2', 'imblearn': '0.11.0', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.4.3', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.18.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.6', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.9.6', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '21.2.4', 'setuptools': '58.0.4', 'pycaret': '3.1.0', 'IPython': '7.31.1', 'ipywidgets': '7.6.5', 'tqdm': '4.62.3', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.1.1', 'pyod': '1.1.1', 'imblearn': '0.9.1', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.4.3', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.11.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.6', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '2.1.1'}, 'python': {'version': '3.9.10', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-11-24 23:47:18,105:WARNING:/Users/emmet/Documents/ITESO/PROYECTO_DE_CIENCIA_DE_DATOS/PROYECTOFINAL/venv/lib/python3.9/site-packages/sklearn/base.py:450: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2023-11-25 12:39:08,404:WARNING:/Users/emmet/Documents/ITESO/PROYECTO_DE_CIENCIA_DE_DATOS/PROYECTOFINAL/venv/lib/python3.9/site-packages/sklearn/base.py:450: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2023-11-25 12:39:25,376:WARNING:/Users/emmet/Documents/ITESO/PROYECTO_DE_CIENCIA_DE_DATOS/PROYECTOFINAL/venv/lib/python3.9/site-packages/sklearn/base.py:450: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+2023-11-25 12:40:15,933:WARNING:/Users/emmet/Documents/ITESO/PROYECTO_DE_CIENCIA_DE_DATOS/PROYECTOFINAL/venv/lib/python3.9/site-packages/sklearn/base.py:450: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
